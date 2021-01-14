@@ -46,3 +46,68 @@ body {
   header ul:last-child {
     margin-left: 4em;
   }
+ main h1{
+   font-size: 2rem;
+   color: rgb(0, 0, 0);
+   font-family: sans-serif;
+ }
+ main h5 {
+  color: rgb(131, 127, 127);
+  font-size: 13px;
+  padding: 0 0 20px;
+
+ }
+ .img3{
+   padding:15px;
+ }
+ .p1{
+  text-indent: 25px;
+  padding: 3px;
+  margin: 50px;
+  color: rgb(48, 48, 48);
+  
+ }
+ .p2{
+  text-indent: 25px;
+
+  color: rgb(48, 48, 48);
+  padding: 3px;
+  margin: 50px;
+ }
+ .p3{
+  text-indent: 25px;
+  color: rgb(48, 48, 48); 
+  padding: 3px;
+  margin: 50px;
+
+ }
+ .con{
+   position:relative;
+   width:100px;
+   height: 100px; 
+   float: left; 
+   margin-left: 10px; 
+ }
+ main ul {
+  
+  float: right;
+  margin-top: 2.5em;
+  margin-left: 10px;
+
+}
+
+main ul li {
+  display: inline-block;
+
+}
+
+main ul li img {
+
+  margin: 1px;
+
+}
+
+
+main ul:last-child {
+  margin-left: 4em;
+}
